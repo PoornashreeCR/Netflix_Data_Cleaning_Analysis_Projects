@@ -1,1 +1,8 @@
 # Netflix_Data_Cleaning_Analysis_Projects
+The Netflix Data: Cleaning, Analysis and Visualization project focuses on analyzing content from Netflix using data analytics and visualization techniques. The dataset contains information about movies and TV shows added between 2008 and 2021, with release years ranging from 1925 to 2021. The project aims to demonstrate practical skills in data cleaning, exploratory data analysis (EDA), and basic machine learning preparation using tools such as Python, SQL, Excel, and visualization platforms.
+
+The process begins with importing essential Python libraries like Pandas, NumPy, Matplotlib, Seaborn, and WordCloud. The dataset is loaded from a CSV file and examined for structure, data types, and missing values. Data cleaning steps include handling null values, removing duplicates, converting the “date_added” column into datetime format, and dropping unnecessary columns. These steps ensure accuracy and consistency for further analysis.
+
+Exploratory Data Analysis is then performed to extract meaningful insights. Visualizations such as bar charts, pie charts, line plots, and word clouds are created to analyze content distribution (Movies vs. TV Shows), rating frequency, yearly and monthly release trends, top countries contributing content, most popular genres, and directors with the highest number of titles. These visual insights help understand content growth patterns and audience preferences.
+
+Finally, the cleaned dataset becomes suitable for advanced tasks like feature engineering and machine learning models for recommendations or trend prediction. Overall, this project builds strong foundational skills in data analysis and visualization.
